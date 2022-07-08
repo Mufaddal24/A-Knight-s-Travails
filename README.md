@@ -9,6 +9,8 @@ take down a target chess piece, in a N x N chessboard.
 - We also give the player the choice to block certain squares with a 
 friendly-pawn, that the knight may choose another path.
 
+Language used : **C++**
+
 Searching Algorithm used : **BFS**
 
 ### Approach 
